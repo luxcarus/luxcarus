@@ -1,4 +1,5 @@
 ### Hi there 👋
+### This Repo is private. If you'd like to join, email me.
 
 <!--
 **luxcarus/luxcarus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
